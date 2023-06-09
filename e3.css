@@ -1,0 +1,96 @@
+.face{
+    height:250px;
+    width:250px;
+    border-radius: 50%;
+    position:absolute;
+    background-image:radial-gradient(rgb(237, 188, 196),rgb(239, 159, 173),rgb(193, 77, 127));
+    box-shadow: 4px 4px 5px 5px black;
+    margin:auto;
+    margin-top:-1%;
+}
+.eyes{
+    display:flex;
+    justify-content:space-evenly;
+    position:absolute;
+    width:200px;
+    margin-top:30%;
+    margin-left:25px;
+}
+#le{
+height:50px;
+width:50px;
+border-radius:50%;
+background-color:white;
+
+}
+#re{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background-color:white;
+}
+#lel{
+    height:20px;
+    width:20px;
+    border-radius:50%;
+    background-color:black;
+    margin-top:25%;
+    margin:15px;
+    justify-content:space-evenly;
+    box-shadow:2px 2px 2px 2px black;
+}
+.mouth{
+    height:36px;
+    width:88px;
+    border-radius:40%;
+    background-color:rgb(231, 68, 68);
+    position:absolute;
+    margin-top:65%;
+    margin-left:34%;
+   
+   
+}
+.nose{
+    display:flex;
+    justify-content:space-evenly; 
+    width:90px;
+    position:absolute;
+    margin-left:3px;
+    margin-top:5px;
+}
+#lno{
+    height:25px;
+    width:25px;
+    border-radius:50%;
+    background-color:black;
+}
+#rno{
+    height:25px;
+    width:25px;
+    border-radius:50%;
+    background-color:black;
+}
+.ears{
+display:flex;
+justify-content:space-evenly;
+position:relative;
+width:395px;
+margin-top:10%;
+margin-left:37%;
+}
+#el{
+    height:70px;
+    width:70px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background-color:rgb(227, 153, 165);
+    box-shadow:5px 5px 5px 5px black;
+}
+#er{
+    height:70px;
+    width:70px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background-color:rgb(227, 153, 165);
+    box-shadow:5px 5px 5px 5px black;
+}
